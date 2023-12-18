@@ -9,6 +9,9 @@ I'm a passionate Frontend Developer, diving deep into the world of coding.
 Currently learning
 
 - **`Javascript`**
+
+  Deep diving in
+
 - **`React`**
 - **`Vue`**
 - **`Node`**
@@ -16,6 +19,7 @@ Currently learning
     #### Always learning  ⎹ always growing
 
 #
+
 
 ### Languages and Tools
 <img align="left" alt="vsc" width="28px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
