@@ -1,6 +1,6 @@
 ## Hi 👋🏻, I'm Alex!
 
-👨🏻‍💻 Software Engineer, based in Vienna, AT <br>
+👨🏻‍💻 Software Developer, based in Vienna, AT <br>
 📫 Reach out to me at: [a.e.binder@icloud.com](mailto:a.e.binder@icloud.com)
 
 ##
