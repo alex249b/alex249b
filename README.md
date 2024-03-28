@@ -8,6 +8,8 @@
 
 Data: `Python` `SQL`┃`Pandas` `Numpy` `Matplotlib` `Jupyter`<br>
 
+Data Tools: `Excel` `Bi-Tooling` <br>
+
 Google Tools: `Google Analytics 4` `Google Tag Manager` <br>
 
 Version Control: `Git` `Gitlab` `GitTea` `Bitbucket`<br>
