@@ -6,7 +6,7 @@
 
 ### 📦 Tool Box
 
-Data: `Python` `SQL`┃`Pandas` `Numpy` `Matplotlib` `Jupyter`<br>
+Data: `Python` `SQL`┃`Pandas` `Numpy` `Matplotlib`<br>
 
 Data Tools: `Excel` `Bi-Tooling` <br>
 
